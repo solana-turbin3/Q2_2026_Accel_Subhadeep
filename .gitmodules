@@ -1,0 +1,6 @@
+[submodule "accel_anchor-escrow"]
+	path = accel_anchor-escrow
+	url = git@github.com:subhadeep-sengupta/accel_anchor-escrow.git
+[submodule "whitelist-transfer-hook-q2"]
+	path = whitelist-transfer-hook-q2
+	url = git@github.com:subhadeep-sengupta/whitelist-transfer-hook-q2.git
