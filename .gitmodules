@@ -4,3 +4,12 @@
 [submodule "whitelist-transfer-hook-q2"]
 	path = whitelist-transfer-hook-q2
 	url = git@github.com:subhadeep-sengupta/whitelist-transfer-hook-q2.git
+[submodule "whitelist-transfer-hook-vault"]
+	path = whitelist-transfer-hook-vault
+	url = git@github.com:subhadeep-sengupta/whitelist-transfer-hook-vault.git
+[submodule "magicblock-vrf-wo-er"]
+	path = magicblock-vrf-wo-er
+	url = https://github.com/subhadeep-sengupta/magicblock-vrf-wo-er.git
+[submodule "magicblock-vrf-er"]
+	path = magicblock-vrf-er
+	url = https://github.com/subhadeep-sengupta/magicblock-vrf-er.git
